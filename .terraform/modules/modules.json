@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"gogs","Source":"./gogs","Dir":"gogs"},{"Key":"redis_operator","Source":"./redis-operator","Dir":"redis-operator"},{"Key":"redis_operator_crds","Source":"./redis-operator/crds","Dir":"redis-operator/crds"},{"Key":"bitnami","Source":"./bitnami","Dir":"bitnami"}]}
